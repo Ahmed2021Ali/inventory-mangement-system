@@ -10,10 +10,10 @@ The project is live and can be accessed at: [Inventory Management System](https:
 ## Screenshots
 
 ### Desktop View
-![Desktop View](./assets/desktop.png)
+![Desktop View](./assets/desktop.jpg)
 
 ### Mobile View
-<img src="./assets/photo.jpg" alt="phone View" style="height: 500px;" />
+<img src="./assets/mobile.jpg" alt="phone View" style="height: 500px;" />
 
 ## Features
 
