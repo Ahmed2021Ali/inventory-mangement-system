@@ -1,4 +1,4 @@
-# Inventory Management System
+# Inventory Management System 
 
 A web-based application designed to help businesses manage their inventory efficiently. This system allows users to add, edit, and delete products, track inventory levels, and organize product data with ease. Built using React for the front end and Laravel for the backend, this application provides a seamless and user-friendly interface for interacting with inventory data.
 
